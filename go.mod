@@ -1,7 +1,7 @@
 module github.com/artyom/status
 
-go 1.17
+go 1.24.0
 
-require golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
+require golang.org/x/term v0.32.0
 
-require golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
+require golang.org/x/sys v0.33.0 // indirect
